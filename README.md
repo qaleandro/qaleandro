@@ -92,6 +92,15 @@ Ao longo da minha jornada, desenvolvi um olhar analítico e estratégico para a 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg"
 />
+<img 
+    align="left" 
+    alt="Jenkins" 
+    title="Jenkins"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" 
+  />
+
 
 
   
