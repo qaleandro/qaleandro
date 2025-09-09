@@ -1,19 +1,15 @@
-# Leandro Bastos
+<p align="center">
+  <a href="https://github.com/DenverCoder1">
+    <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="Jonah Lawrence" /></a>
+</p>
 
-**`Analista de Qualidade de Software`**
+#  Leandro Bastos 🎯
 
-Com ampla experiência em engenharia, direcionei minha carreira para a Qualidade de Software (QA), unindo
-minha experiência com processos, análise técnica e tecnologia à busca constante por excelência na entrega
-de produtos digitais. Ao longo da minha jornada, desenvolvi um olhar analítico e estratégico para a
-identificação de falhas e inconsistências, seja em códigos, documentações ou processos. Graduado em
-Análise e Desenvolvimento de Sistemas, estou preparado para contribuir com análises críticas, soluções
-eficientes e processos estruturados, elevando o padrão de qualidade de produtos e serviços. Minha
-expertise em Qualidade e Testes de Software abrange: levantamento e análise de requisitos, planejamento
-e execução de testes (funcionais, não funcionais, manuais e automatizados), criação de casos e cenários de
-testes, aplicação de boas práticas de QA em ambientes colaborativos e ágeis. Minha experiência no meio
-militar fortaleceu características essenciais como disciplina, foco e comprometimento, enquanto minha
-vivência na área comercial desenvolveu competências como comunicação eficaz, gestão de demandas e
-trabalho em equipe, qualidades fundamentais para atuar em times ágeis e multidisciplinares.
+**`QA Engineer | Analista de Qualidade de Software`**
+
+Com ampla experiência em engenharia, direcionei minha carreira para a Qualidade de Software (QA), unindo minha experiência com processos, análise técnica e tecnologia à busca constante por excelência na entrega de produtos digitais.
+Ao longo da minha jornada, desenvolvi um olhar analítico e estratégico para a identificação de falhas e inconsistências, seja em códigos, documentações ou processos. Graduado em Análise e Desenvolvimento de Sistemas, estou preparado para contribuir com análises críticas, soluções eficientes e processos estruturados, elevando o padrão de qualidade de produtos e serviços.
+
 
 [LinkeDin](https://www.linkedin.com/in/qaleandrobastos/)
 
