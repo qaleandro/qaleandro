@@ -27,6 +27,47 @@ Ao longo da minha jornada, desenvolvi um olhar analítico e estratégico para a 
 ### 🤖 Linguagens e Tecnologias
 <img 
     align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Postman" 
+    title="Postman"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg"
+/>
+<img 
+    align="left" 
+    alt="Jenkins" 
+    title="Jenkins"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" 
+  />
+<img 
+    align="left" 
+    alt="Robot" 
+    title="Robot"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://github.com/qaleandro/Icons1/blob/main/robotframework-svgrepo-com%20(1).svg"
+  />
+
+<img 
+    align="left" 
     alt="selenium" 
     title="selenium"
     width="30px" 
