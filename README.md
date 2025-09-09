@@ -9,7 +9,7 @@
     src="https://github.com/qaleandro/Icons1/blob/main/logo_leandro.png"
   />
   
-**`*QA Engineer | Analista de Qualidade de Software*`**
+**`QA Engineer | Analista de Qualidade de Software`**
 <br>
 <br>
 
