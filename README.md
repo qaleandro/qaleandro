@@ -104,7 +104,7 @@ Ao longo da minha jornada, desenvolvi um olhar analítico e estratégico para a 
     align="left" 
     alt="Robot" 
     title="Robot"
-    width="30px" 
+    width="35px" 
     style="padding-right: 10px;" 
     src="https://github.com/qaleandro/Icons1/blob/main/robotframework-svgrepo-com%20(1).svg"
   />
