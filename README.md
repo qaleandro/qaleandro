@@ -1,6 +1,14 @@
 
 #  Leandro Bastos 🎯
 
+<img 
+    align="left" 
+    alt="Robot" 
+    title="Robot"
+    width="35px" 
+    style="padding-right: 10px;" 
+    src="https://github.com/qaleandro/Icons1/blob/main/robotframework-svgrepo-com%20(1).svg"
+  />
 **`QA Engineer | Analista de Qualidade de Software`**
 
 Com ampla experiência em engenharia, direcionei minha carreira para a Qualidade de Software (QA), unindo minha experiência com processos, análise técnica e tecnologia à busca constante por excelência na entrega de produtos digitais.
