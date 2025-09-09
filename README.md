@@ -1,6 +1,5 @@
 
 #  Leandro Bastos 
-
 <img 
     align="left" 
     alt="lpb" 
@@ -9,8 +8,10 @@
     style="padding-right: 15px;" 
     src="https://github.com/qaleandro/Icons1/blob/main/logo_leandro.png"
   />
+  
 **`QA Engineer | Analista de Qualidade de Software`**
-
+<br>
+<br>
 
 Com ampla experiência em engenharia, direcionei minha carreira para a Qualidade de Software (QA), unindo minha experiência com processos, análise técnica e tecnologia à busca constante por excelência na entrega de produtos digitais.
 Ao longo da minha jornada, desenvolvi um olhar analítico e estratégico para a identificação de falhas e inconsistências, seja em códigos, documentações ou processos. Graduado em Análise e Desenvolvimento de Sistemas, estou preparado para contribuir com análises críticas, soluções eficientes e processos estruturados, elevando o padrão de qualidade de produtos e serviços.
@@ -19,8 +20,7 @@ Ao longo da minha jornada, desenvolvi um olhar analítico e estratégico para a 
   <a href="https://www.linkedin.com/in/qaleandrobastos/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   </a>
-<!--   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a> -->
+
 </p>
 
 
