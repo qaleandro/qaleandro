@@ -1,12 +1,12 @@
 
-#  Leandro Bastos 🎯
+#  Leandro Bastos 
 
 <img 
     align="left" 
     alt="lpb" 
     title="lpb"
-    width="35px" 
-    style="padding-right: 10px;" 
+    width="45px" 
+    style="padding-right: 15px;" 
     src="https://github.com/qaleandro/Icons1/blob/main/logo_leandro.png"
   />
 **`QA Engineer | Analista de Qualidade de Software`**
