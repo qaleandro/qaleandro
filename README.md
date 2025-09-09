@@ -100,7 +100,14 @@ Ao longo da minha jornada, desenvolvi um olhar analítico e estratégico para a 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" 
   />
-
+<img 
+    align="left" 
+    alt="Robot" 
+    title="Robot"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="file:///E:/Downloads/robotframework-svgrepo-com%20(1).svg" 
+  />
 
 
   
