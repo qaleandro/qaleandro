@@ -106,7 +106,7 @@ Ao longo da minha jornada, desenvolvi um olhar analítico e estratégico para a 
     title="Robot"
     width="30px" 
     style="padding-right: 10px;" 
-    src="file:///E:/Downloads/robotframework-svgrepo-com%20(1).svg" 
+    src="https://iconduck.com/icons/20684/robotframework.svg" 
   />
 
 
