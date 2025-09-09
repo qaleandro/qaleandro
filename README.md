@@ -106,6 +106,7 @@ Ao longo da minha jornada, desenvolvi um olhar analítico e estratégico para a 
     title="Robot"
     width="30px" 
     style="padding-right: 10px;" 
+    robotframework-svgrepo-com (1).svg
 
   />
 
