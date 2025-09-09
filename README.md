@@ -50,7 +50,6 @@ Ao longo da minha jornada, desenvolvi um olhar analítico e estratégico para a 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cucumber/cucumber-plain.svg" 
 />
-
 <img 
     align="left" 
     alt="HTML"
@@ -111,7 +110,7 @@ Ao longo da minha jornada, desenvolvi um olhar analítico e estratégico para a 
     align="left" 
     alt="Robot" 
     title="Robot"
-    width="35px" 
+    width="30px" 
     style="padding-right: 10px;" 
     src="https://github.com/qaleandro/Icons1/blob/main/robotframework-svgrepo-com%20(1).svg"
   />
