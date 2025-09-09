@@ -9,7 +9,7 @@
     src="https://github.com/qaleandro/Icons1/blob/main/logo_leandro.png"
   />
   
-**`QA Engineer | Analista de Qualidade de Software`**
+**`*QA Engineer | Analista de Qualidade de Software*`**
 <br>
 <br>
 
@@ -23,7 +23,6 @@ Ao longo da minha jornada, desenvolvi um olhar analítico e estratégico para a 
 
 </p>
 
-
 ### 🤖 Linguagens e Tecnologias
 <img 
     align="left" 
@@ -33,7 +32,6 @@ Ao longo da minha jornada, desenvolvi um olhar analítico e estratégico para a 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" 
   />
-
   <img 
     align="left" 
     alt="cypressio" 
@@ -84,15 +82,6 @@ Ao longo da minha jornada, desenvolvi um olhar analítico e estratégico para a 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
-
-<img 
-    align="left" 
-    alt="Jenkins" 
-    title="Jenkins"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" 
-  />
 <img 
     align="left" 
     alt="Git" 
@@ -101,10 +90,6 @@ Ao longo da minha jornada, desenvolvi um olhar analítico e estratégico para a 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
-
-
-
-
 <img 
     align="left" 
     alt="HTML"
