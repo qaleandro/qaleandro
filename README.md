@@ -27,6 +27,40 @@ Ao longo da minha jornada, desenvolvi um olhar analítico e estratégico para a 
 ### 🤖 Linguagens e Tecnologias
 <img 
     align="left" 
+    alt="selenium" 
+    title="selenium"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" 
+  />
+
+  <img 
+    align="left" 
+    alt="cypressio" 
+    title="cypressio"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg"          
+/>
+
+<img 
+    align="left" 
+    alt="Robot" 
+    title="Robot"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://github.com/qaleandro/Icons1/blob/main/robotframework-svgrepo-com%20(1).svg"
+  />
+  <img 
+    align="left" 
+    alt="cucumber" 
+    title="cucumber"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cucumber/cucumber-plain.svg" 
+/>
+<img 
+    align="left" 
     alt="Git" 
     title="Git"
     width="30px" 
@@ -57,39 +91,11 @@ Ao longo da minha jornada, desenvolvi um olhar analítico e estratégico para a 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" 
   />
-<img 
-    align="left" 
-    alt="Robot" 
-    title="Robot"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://github.com/qaleandro/Icons1/blob/main/robotframework-svgrepo-com%20(1).svg"
-  />
 
-<img 
-    align="left" 
-    alt="selenium" 
-    title="selenium"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" 
-  />
-<img 
-    align="left" 
-    alt="cypressio" 
-    title="cypressio"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg"          
-/>
-<img 
-    align="left" 
-    alt="cucumber" 
-    title="cucumber"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cucumber/cucumber-plain.svg" 
-/>
+
+
+
+
 <img 
     align="left" 
     alt="HTML"
