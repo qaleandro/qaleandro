@@ -3,11 +3,11 @@
 
 <img 
     align="left" 
-    alt="Robot" 
-    title="Robot"
+    alt="lpb" 
+    title="lpb"
     width="35px" 
     style="padding-right: 10px;" 
-    src="https://github.com/qaleandro/Icons1/blob/main/robotframework-svgrepo-com%20(1).svg"
+    src="https://github.com/qaleandro/Icons1/blob/main/logo_leandro.png"
   />
 **`QA Engineer | Analista de Qualidade de Software`**
 
