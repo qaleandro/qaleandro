@@ -22,7 +22,7 @@ Me acompanhe por aí
     alt="bi" 
     title="bi"
     width="40px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 15px;" 
     src="https://github.com/qaleandro/Icon/blob/main/binoculos.png"
   />
 
