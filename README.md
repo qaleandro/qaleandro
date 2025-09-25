@@ -26,17 +26,3 @@ Ao longo da minha jornada, desenvolvi um olhar analítico e estratégico para a 
 <br>
 🛠️  Tecnologias e Ferramentas
 <br>
-<br>
-<img 
-    align="left" 
-    alt="selenium" 
-    title="selenium"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" 
-  />
-  <img 
-
-
-
-
