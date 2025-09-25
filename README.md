@@ -24,7 +24,8 @@ Ao longo da minha jornada, desenvolvi um olhar analítico e estratégico para a 
     title="bi"
     width="40px" 
     style="padding-right: 15px;" 
-    href="https://www.linkedin.com/in/qaleandrobastos" target="_blank">
+    src="https://www.linkedin.com/in/qaleandrobastos"
+    />
 
 
 
