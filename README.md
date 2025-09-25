@@ -18,30 +18,14 @@ Ao longo da minha jornada, desenvolvi um olhar analítico e estratégico para a 
 
 🔦 Me acompanhe por aí
 
-  <img 
-    align="left" 
-    alt="bi" 
-    title="bi"
-    width="40px" 
-    style="padding-right: 15px;" 
-    src="https://github.com/qaleandro/Icon/blob/main/linkedin_icon-icons.com_53609.png"
-  />
 
-
-  <img 
-    align="left" 
-    alt="bi" 
-    title="bi"
-    width="40px" 
-    style="padding-right: 15px;" 
-    src="https://github.com/qaleandro/Icon/blob/main/instagram.png"
-  />
 
 
  <a href="https://www.linkedin.com/in/qaleandrobastos/" target="blank"><img align="center" src="https://github.com/qaleandro/Icon/blob/main/facebook_logo_icon_181742%20(1).png" alt="leandro" height="40" width="40" /></a>
 
+<a href="https://www.linkedin.com/in/qaleandrobastos/" target="blank"><img align="center" src="https://github.com/qaleandro/Icon/blob/main/facebook_logo_icon_181742%20(1).png" alt="leandro" height="40" width="40" /></a>
 
-
+<a href="https://www.linkedin.com/in/qaleandrobastos/" target="blank"><img align="center" src="https://github.com/qaleandro/Icon/blob/main/facebook_logo_icon_181742%20(1).png" alt="leandro" height="40" width="40" /></a>
 
 <br>
 <br>
