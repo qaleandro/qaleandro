@@ -48,7 +48,6 @@ Me acompanhe por aí
 <br>
 🤖 Tecnologias e Ferramentas
 
-<br>
 <img 
     align="left" 
     alt="selenium" 
