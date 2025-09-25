@@ -17,6 +17,7 @@ Com ampla experiência em engenharia, direcionei minha carreira para a Qualidade
 Ao longo da minha jornada, desenvolvi um olhar analítico e estratégico para a identificação de falhas e inconsistências, seja em códigos, documentações ou processos. Graduado em Análise e Desenvolvimento de Sistemas, estou preparado para contribuir com análises críticas, soluções eficientes e processos estruturados, elevando o padrão de qualidade de produtos e serviços.
 
 Me acompanhe por aí
+
 <img 
     align="left" 
     alt="bi" 
@@ -25,7 +26,7 @@ Me acompanhe por aí
     style="padding-right: 15px;" 
     src="https://github.com/qaleandro/Icon/blob/main/binoculos.png"
   />
-
+https://commons.wikimedia.org/wiki/File:LinkedIn_icon.svg
 
 ### 🤖 Tecnologias e Ferramentas
 <img 
