@@ -16,6 +16,7 @@ Com ampla experiência em engenharia, direcionei minha carreira para a Qualidade
 Ao longo da minha jornada, desenvolvi um olhar analítico e estratégico para a identificação de falhas e inconsistências, seja em códigos, documentações ou processos. Graduado em Análise e Desenvolvimento de Sistemas, estou preparado para contribuir com análises críticas, soluções eficientes e processos estruturados, elevando o padrão de qualidade de produtos e serviços.
 
 🔦 Me acompanhe por aí
+
  <a href="https://www.linkedin.com/in/qaleandrobastos/" target="blank"><img align="left" src="https://github.com/qaleandro/Icon/blob/main/linkedin_icon-icons.com_53609.png" alt="facebook" height="40" width="40" /></a>
 
 <a href="https://www.instagram.com/leandrobastosrj/?hl=pt-br" target="blank"><img align="left" src="https://github.com/qaleandro/Icon/blob/main/instagram.png" alt="leandro" height="40" width="40" /></a>
