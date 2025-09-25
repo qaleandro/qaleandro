@@ -51,7 +51,6 @@ Me acompanhe por aí
 
 <br>
 <br>
-<br>
 
 <img 
     align="left" 
