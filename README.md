@@ -19,14 +19,6 @@ Ao longo da minha jornada, desenvolvi um olhar analítico e estratégico para a 
 Me acompanhe por aí
 
 
-<img 
-    align="left" 
-    alt="selenium" 
-    title="selenium"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" 
-  />
 
 <img 
     align="left" 
@@ -34,7 +26,7 @@ Me acompanhe por aí
     title="bi"
     width="40px" 
     style="padding-right: 15px;" 
-    src="https://github.com/qaleandro/Icon/blob/main/binoculos.png"
+    src="https://github.com/qaleandro/Icon/blob/main/linkedin_icon-icons.com_53609.png"
   />
 
 
