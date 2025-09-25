@@ -43,11 +43,11 @@ Ao longo da minha jornada, desenvolvi um olhar analítico e estratégico para a 
     title="bi"
     width="40px" 
     style="padding-right: 15px;" 
-    src="https://github.com/qaleandro/Icon/blob/main/facebook_logo_icon_181742%20(1).png"
-  />
+    <a href="https://www.linkedin.com/in/qaleandrobastos/" target="blank"><img src="https://github.com/qaleandro/Icon/blob/main/facebook_logo_icon_181742%20(1).png"  /></a>
+    />
 
  
-<a href="https://www.linkedin.com/feed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dev-souza-089622291" height="30" width="40" /></a>
+
 
 
 
