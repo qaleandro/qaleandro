@@ -24,7 +24,7 @@ Ao longo da minha jornada, desenvolvi um olhar analítico e estratégico para a 
   </a>
 
   <p align="left">
-  <a href="https://www.linkedin.com/in/qaleandrobastos/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
+  <a href="https://www.linkedin.com/in/qaleandrobastos/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://github.com/qaleandro/Icon/blob/main/instagram.png"/></a> 
   &#8287;&#8287;&#8287;&#8287;&#8287;
   </a>
 </p>
