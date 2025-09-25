@@ -24,7 +24,7 @@ Ao longo da minha jornada, desenvolvi um olhar analítico e estratégico para a 
   </a>
 
   <p align="left">
-  <a href="https://www.instagram.com/leandrobastosrj/?hl=pt-br"><img width="32px" alt="Instagram" title="Instagram" src="https://i.imgur.com/yRpa1dQ.png"/></a>
+  <a href="https://www.instagram.com/leandrobastosrj/?hl=pt-br"><img width="32px" alt="Instagram" title="Instagram" src="<i class="bi bi-instagram"></i>"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   </a>
 
