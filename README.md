@@ -58,8 +58,6 @@ Me acompanhe por aí
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" 
   />
-
-  
   <img 
     align="left" 
     alt="cypressio" 
