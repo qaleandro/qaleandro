@@ -16,7 +16,7 @@
 Com ampla experiência em engenharia, direcionei minha carreira para a Qualidade de Software (QA), unindo minha experiência com processos, análise técnica e tecnologia à busca constante por excelência na entrega de produtos digitais.
 Ao longo da minha jornada, desenvolvi um olhar analítico e estratégico para a identificação de falhas e inconsistências, seja em códigos, documentações ou processos. Graduado em Análise e Desenvolvimento de Sistemas, estou preparado para contribuir com análises críticas, soluções eficientes e processos estruturados, elevando o padrão de qualidade de produtos e serviços.
 
-Me acompanhe por aí
+🔦 Me acompanhe por aí
 
 <img 
     align="left" 
