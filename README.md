@@ -18,6 +18,13 @@ Ao longo da minha jornada, desenvolvi um olhar analítico e estratégico para a 
 
 Me acompanhe por aí
 
+<div style="display: flex; gap: 10px;">
+  <img src="https://github.com/qaleandro/Icon/blob/main/linkedin_icon-icons.com_53609.png" alt="linkedin" style="width:45px;">
+  <img src="https://github.com/qaleandro/Icon/blob/main/instagram.png" alt="instagram" style="width:45px;">
+  <img src="https://github.com/qaleandro/Icon/blob/main/facebook_logo_icon_257007.png" alt="facebook" style="width:45px;">
+</div>
+
+
 <img 
     align="left" 
     alt="bi" 
