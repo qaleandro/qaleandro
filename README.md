@@ -42,7 +42,7 @@ Me acompanhe por aí
     title="bi"
     width="40px" 
     style="padding-right: 15px;" 
-    src="https://github.com/qaleandro/Icon/blob/main/facebook_logo_icon_257007.png"
+    src="https://github.com/qaleandro/Icon/blob/main/facebook_logo_icon_181742%20(1).png"
   />
 
 <br>
