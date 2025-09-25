@@ -18,8 +18,6 @@ Ao longo da minha jornada, desenvolvi um olhar analítico e estratégico para a 
 
 Me acompanhe por aí
 
-
-
 <img 
     align="left" 
     alt="bi" 
@@ -27,6 +25,15 @@ Me acompanhe por aí
     width="40px" 
     style="padding-right: 15px;" 
     src="https://github.com/qaleandro/Icon/blob/main/linkedin_icon-icons.com_53609.png"
+  />
+
+  <img 
+    align="left" 
+    alt="bi" 
+    title="bi"
+    width="40px" 
+    style="padding-right: 15px;" 
+    src="https://github.com/qaleandro/Icon/blob/main/instagram.png"
   />
 
 <br>
