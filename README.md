@@ -17,7 +17,6 @@ Com ampla experiência em engenharia, direcionei minha carreira para a Qualidade
 Ao longo da minha jornada, desenvolvi um olhar analítico e estratégico para a identificação de falhas e inconsistências, seja em códigos, documentações ou processos. Graduado em Análise e Desenvolvimento de Sistemas, estou preparado para contribuir com análises críticas, soluções eficientes e processos estruturados, elevando o padrão de qualidade de produtos e serviços.
 
 Me acompanhe por aí
-
 <img 
     align="left" 
     alt="bi" 
@@ -27,24 +26,6 @@ Me acompanhe por aí
     src="https://github.com/qaleandro/Icon/blob/main/binoculos.png"
   />
 
-
-
-<img 
-    align="left" 
-    alt="selenium" 
-    title="selenium"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" 
-  />
-  <img 
-    align="left" 
-    alt="cypressio" 
-    title="cypressio"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg"          
-/>
 
 ### 🤖 Tecnologias e Ferramentas
 <img 
