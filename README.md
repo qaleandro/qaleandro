@@ -63,7 +63,7 @@ Me acompanhe por aí
     alt="cypressio" 
     title="cypressio"
     width="30px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 15px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg"          
 />
 
