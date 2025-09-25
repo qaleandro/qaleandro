@@ -1,4 +1,19 @@
 
+
+<div style="display: flex; align-items: center; gap: 10px;">
+  <img src="https://github.com/qaleandro/Icons1/blob/main/logo_leandro.png" alt="Logo" width="45">
+  <span>**`QA Engineer | Analista de Qualidade de Software`**</span>
+</div>
+
+
+
+
+
+
+
+
+
+
 #  Leandro Bastos 
 <img 
     align="left" 
