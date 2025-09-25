@@ -26,7 +26,6 @@ Ao longo da minha jornada, desenvolvi um olhar analítico e estratégico para a 
 <br>
 🛠️  Tecnologias e Ferramentas
 <br>
-<br>
 <img 
     align="left" 
     alt="selenium" 
