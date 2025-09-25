@@ -36,6 +36,15 @@ Me acompanhe por aí
     src="https://github.com/qaleandro/Icon/blob/main/instagram.png"
   />
 
+   <img 
+    align="left" 
+    alt="bi" 
+    title="bi"
+    width="40px" 
+    style="padding-right: 15px;" 
+    src="https://github.com/qaleandro/Icon/blob/main/facebook_logo_icon_257007.png"
+  />
+
 <br>
 <br>
 ### 🤖 Tecnologias e Ferramentas
