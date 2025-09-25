@@ -45,6 +45,22 @@ Ao longo da minha jornada, desenvolvi um olhar analítico e estratégico para a 
     style="padding-right: 15px;" 
     src="https://github.com/qaleandro/Icon/blob/main/facebook_logo_icon_181742%20(1).png"
   />
+
+
+  <img 
+    align="left" 
+    alt="bi" 
+    title="bi"
+    width="40px" 
+    style="padding-right: 15px;" 
+    <a href="https://www.linkedin.com/in/qaleandrobastos/" target="_blank">
+  <img src="https://github.com/qaleandro/Icon/blob/main/linkedin_icon-icons.com_53609.png">
+</a>
+  />
+
+
+
+  
 <br>
 <br>
 🛠️  Tecnologias e Ferramentas
