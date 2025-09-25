@@ -23,6 +23,11 @@ Ao longo da minha jornada, desenvolvi um olhar analítico e estratégico para a 
   &#8287;&#8287;&#8287;&#8287;&#8287;
   </a>
 
+  <p align="left">
+  <a href="https://www.instagram.com/leandrobastosrj/?hl=pt-br"><img width="32px" alt="Instagram" title="Instagram" src="https://i.imgur.com/yRpa1dQ.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  </a>
+
 </p>
 
 ### 🤖 Tecnologias e Ferramentas
