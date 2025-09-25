@@ -23,7 +23,7 @@ Ao longo da minha jornada, desenvolvi um olhar analítico e estratégico para a 
 
  <a href="https://www.linkedin.com/in/qaleandrobastos/" target="blank"><img align="left" src="https://github.com/qaleandro/Icon/blob/main/facebook_logo_icon_181742%20(1).png" alt="leandro" height="40" width="40" /></a>
 
-<a href="https://www.linkedin.com/in/qaleandrobastos/" target="blank"><img align="left" src="https://github.com/qaleandro/Icon/blob/main/facebook_logo_icon_181742%20(1).png" alt="leandro" height="40" width="40" /></a>
+<a href="https://www.instagram.com/leandrobastosrj/?hl=pt-br" target="blank"><img align="left" src="https://github.com/qaleandro/Icon/blob/main/instagram.png" alt="leandro" height="40" width="40" /></a>
 
 <a href="https://www.linkedin.com/in/qaleandrobastos/" target="blank"><img align="left" src="https://github.com/qaleandro/Icon/blob/main/facebook_logo_icon_181742%20(1).png" alt="leandro" height="40" width="40" /></a>
 
