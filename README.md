@@ -23,7 +23,7 @@ Ao longo da minha jornada, desenvolvi um olhar analítico e estratégico para a 
 
 </p>
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Tecnologias e Ferramentas
 <img 
     align="left" 
     alt="selenium" 
