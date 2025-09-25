@@ -47,7 +47,7 @@ Me acompanhe por aí
 
 <br>
 <br>
-### 🤖 Tecnologias e Ferramentas
+🤖 Tecnologias e Ferramentas
 
 
   
