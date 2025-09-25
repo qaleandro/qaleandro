@@ -29,7 +29,8 @@ Me acompanhe por aí
     src="https://github.com/qaleandro/Icon/blob/main/linkedin_icon-icons.com_53609.png"
   />
 
-
+<br>
+<br>
 ### 🤖 Tecnologias e Ferramentas
 <img 
     align="left" 
